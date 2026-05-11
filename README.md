@@ -500,7 +500,7 @@ Advantages:
 
 # Demo
 
-Add screenshots or GIFs here.
+![Demo GIF](qcar_demo.gif)
 
 ---
 
