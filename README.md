@@ -500,7 +500,7 @@ Advantages:
 
 # Demo
 
-![Demo GIF](qcar_demo.gif)
+![Demo GIF](detect_demo.gif)
 
 ---
 
