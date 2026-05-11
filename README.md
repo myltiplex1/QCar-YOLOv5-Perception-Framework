@@ -500,7 +500,7 @@ Advantages:
 
 # Demo
 
-![Demo GIF](detect_demo.mp4)
+[Download Demo Video](detect_demo.mp4)
 
 ---
 
