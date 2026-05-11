@@ -397,7 +397,7 @@ NVIDIA GPU NAME
 ## Step 1 — Clone Your Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/myltiplex1/QCar-YOLOv5-Perception-Framework.git
 ```
 
 ---
